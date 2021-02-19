@@ -8,18 +8,6 @@
     tools:context=".jeoActivity">
 
     <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="294dp"
-        android:layout_height="288dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.29"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.383"
-        app:srcCompat="@mipmap/mike_round" />
-
-    <ImageView
         android:id="@+id/imageView15"
         android:layout_width="74dp"
         android:layout_height="64dp"
